@@ -13,7 +13,7 @@ Edie Homepage é a representação de uma página inicial de uma empresa de tecn
 <div style="display: block">
  
  ## Link do projeto
-  https://pedroreis16.github.io/CheckoutPage/
+  https://pedroreis16.github.io/EdieHomepage/
 </div>
 
 ## Autor
